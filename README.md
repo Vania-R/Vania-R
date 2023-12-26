@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Vania-R
-- 👀 I’m interested in math, electronics, piano, programming and all music!
+- 👋 Hi, I’m @Vania
+- 👀 I’m interested in maths, electronics, piano, programming and music!
 - 🌱 I’m currently learning more about raspberry pi and arduino.
 - 📫 You can reach me and see my photography on Instagram @acciopiano
 
